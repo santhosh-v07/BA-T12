@@ -8,7 +8,7 @@ Analyze the assigned HR Analytics dataset in Tableau Public to identify employee
 
 ## Dashboard Preview
 
-[![HR Attrition Analysis Dashboard](https://public.tableau.com/static/images/HR/HRATTRITIONANALYSISDASHBOARD_17912743288860/Dashboard1/1_rss.png)](https://public.tableau.com/views/HRATTRITIONANALYSISDASHBOARD_17912743288860/Dashboard1)
+[![HR Attrition Analysis Dashboard](assets/BA_T12_Dashboard.webp)](https://public.tableau.com/views/HRATTRITIONANALYSISDASHBOARD_17912743288860/Dashboard1)
 
 ## Dashboard Visualizations
 1. **Overall Attrition (Pie Chart):** Employees who stayed vs. employees who left.
